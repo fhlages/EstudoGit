@@ -1,1 +1,2 @@
 Esste é um arquivo de estudo.
+Essa é a primeira alteração no arquivo.
